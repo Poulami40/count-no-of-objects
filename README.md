@@ -1,2 +1,2 @@
 # count-no-of-objects
-Image processing to count the number of Objects using OpenCV in Python.
+Image processing using OpenCV in Python can be employed to count the number of objects in an image. By applying techniques such as contour detection, thresholding, and morphological operations, objects can be isolated from the background. Contours are then identified, and each contour represents an object. The count of these contours provides the total number of objects in the image. This approach is useful for applications like object counting in manufacturing, traffic analysis, and more.
